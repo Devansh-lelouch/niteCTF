@@ -20,11 +20,25 @@ https://electronics.stackexchange.com/questions/425348/baud-rate-for-square-wave
 
 Its basically in the form of 0 1 
 decoding it on my own 
+
 ![image](https://github.com/user-attachments/assets/a9dcc910-7a50-4421-a244-e7624a6de928)
 
+
 decoding it in binary convertor 
+
 ![image](https://github.com/user-attachments/assets/61aabd46-2a08-4c9b-a382-75f3b4e309e6)
 but the first letter should be n as nite ctf 
 using the reverse option on the tool it shows its n so the first binary is 01101110 
 doing it further on all the square waveforms 
+the first five would be nite{ only so no point in doing them  doing the rest one in similar style 
+
+![image](https://github.com/user-attachments/assets/a51ef75c-3baa-4dfa-86a6-d719f0514103)
+
+![image](https://github.com/user-attachments/assets/6166fba8-da81-4bf9-b630-7c3804fc0140)
+
+the flag is : 
+>nite{n0n_std_b4ud_r4t3s_ftw}
+
+
+
 
