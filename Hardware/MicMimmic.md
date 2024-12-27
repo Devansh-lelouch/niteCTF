@@ -21,4 +21,9 @@ Flag format: nite{a:(1/0),b:(1/0),c:(1/0),d:(1/0),(resistor value in kilo ohm)} 
 My previous attempt during the niteCTF itself was [this](https://github.com/Devansh-lelouch/niteCTF/blob/main/Attempted%20but%20Failed/Attempts.md#mic-mimic) I did get the resistor value and the pin inputs right somehow but i got the pins completely wrong. 
 
 Writing this writeup after seeing the official solutions, 
-* Get the fcc id of the shure ULXD8 X52 , fcc id is basically 
+* Get the fcc id of the shure ULXD8 X52 , fcc id is basically american regulatory code given to electronic devices , using the fcc id we can find many important information. 
+  - ![image](https://github.com/user-attachments/assets/1e8af773-0f43-4667-98f6-c897f2cdf5aa)
+  - fcc id is DD4ULXD8X52
+* Get adc id PCM1803A
+* Get [this] (https://www.ti.com/lit/ds/symlink/pcm1803a.pdf?ts=1735330938254&ref_url=https%253A%252F%252Fwww.google.com%252F) documentation.
+*
