@@ -26,4 +26,20 @@ Writing this writeup after seeing the official solutions,
   - fcc id is DD4ULXD8X52
 * Get adc id PCM1803A
 * Get [this] (https://www.ti.com/lit/ds/symlink/pcm1803a.pdf?ts=1735330938254&ref_url=https%253A%252F%252Fwww.google.com%252F) documentation.
-*
+* ![image](https://github.com/user-attachments/assets/82c738c5-8570-47d6-8c14-054a01c121a8)
+  markes pins are those , whose info is given in the question.
+![image](https://github.com/user-attachments/assets/f601e59d-bbb6-495e-8a89-574a9b67fbae)
+
+* ![image](https://github.com/user-attachments/assets/6758febf-ecb8-447d-b225-c3cf8e0dac00)
+as we are using all pins from 10 , 11, 12 we are mostly using master mode . 
+* Searching more on master mode . 
+![image](https://github.com/user-attachments/assets/f47936dc-2456-4b34-82df-349d2034249d)
+
+* As soon we recieve the 24 bit from 12  pin (Dout )  , the pin 10  ( LRCK ) would get 0, observing the graphs and noticing to get the format  :
+ 
+![image](https://github.com/user-attachments/assets/83e03014-69b2-4cec-ac0a-433ee9570cee)
+
+* ![image](https://github.com/user-attachments/assets/5f6c4373-60bf-4ffa-a795-62c346c43eaf)
+
+
+
