@@ -57,5 +57,13 @@ So , 17:0 , 18:1 .
 so 19:1 and 20 : 0 
 
 * the value of the resistor would be found using this formula : 
+
 ![image](https://github.com/user-attachments/assets/826113d5-4954-415a-9598-4a3eea96c176)
+
+putting R = 10 and C as 10^-6 we would get R as 16 
+
+
+### The flag would be : 
+>nite{17:0,18:1,19:1,20:0,16}
+
 
