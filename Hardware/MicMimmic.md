@@ -30,8 +30,9 @@ Writing this writeup after seeing the official solutions,
   markes pins are those , whose info is given in the question.
 ![image](https://github.com/user-attachments/assets/f601e59d-bbb6-495e-8a89-574a9b67fbae)
 
-* ![image](https://github.com/user-attachments/assets/6758febf-ecb8-447d-b225-c3cf8e0dac00)
-as we are using all pins from 10 , 11, 12 we are mostly using master mode . 
+![image](https://github.com/user-attachments/assets/d86ccb64-7ad0-42d3-af15-73f465afe75b)
+
+
 * Searching more on master mode . 
 ![image](https://github.com/user-attachments/assets/f47936dc-2456-4b34-82df-349d2034249d)
 
@@ -41,5 +42,7 @@ as we are using all pins from 10 , 11, 12 we are mostly using master mode .
 
 * ![image](https://github.com/user-attachments/assets/5f6c4373-60bf-4ffa-a795-62c346c43eaf)
 
+So , 17:0 , 18:1 . 
 
+*
 
