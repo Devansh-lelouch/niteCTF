@@ -1,4 +1,3 @@
-Flag: nite{17:0,18:1,19:1,20:0,16}
 
 Author(s): Vikaran
 
